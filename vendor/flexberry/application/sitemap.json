@@ -1,0 +1,22 @@
+﻿{
+  "applicationCaption": "Mu12",
+  "applicationTitle": "Mu12",
+  "items": [
+    {
+      "link": null,
+      "menuName": "mu12",
+      "caption": "mu12",
+      "title": "mu12",
+      "children": [
+        {
+          "link": "i-i-s-mu12-f32-l",
+          "menuName": null,
+          "caption": "F32",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

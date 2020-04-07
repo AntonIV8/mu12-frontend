@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "F32",
+  "name": "IISmu12f32E",
+  "className": "f32E",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-mu12-f32",
+      "modelProjection": "f32E"
+    }
+  ]
+}

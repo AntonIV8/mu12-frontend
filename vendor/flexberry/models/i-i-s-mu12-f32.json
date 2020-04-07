@@ -1,0 +1,30 @@
+﻿{
+  "name": "IISmu12f32",
+  "modelName": "i-i-s-mu12-f32",
+  "className": "f32",
+  "nameSpace": "IIS.mu12",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "f32E",
+      "modelName": "i-i-s-mu12-f32",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "f32L",
+      "modelName": "i-i-s-mu12-f32",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

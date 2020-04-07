@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-mu12-f32-e",
+  "editForm": "i-i-s-mu12-f32-e",
+  "external": false,
+  "caption": "F32",
+  "name": "IISmu12f32L",
+  "className": "f32L",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-mu12-f32",
+      "modelProjection": "f32L"
+    }
+  ]
+}
